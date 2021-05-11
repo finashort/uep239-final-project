@@ -1,4 +1,4 @@
-name: uep239
+name: geospatial
 channels:
   - conda-forge
 dependencies:
