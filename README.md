@@ -16,3 +16,6 @@ For this project, I'll be using NumPy, Pandas and Geopandas to work with both sp
 List of acknowledgements and referenced resources:
 Thank you to Uku-Kaspar Uustalu and Kyle Monahan for the guidance and reference code provided throughout this process! https://github.com/tuftsdatalab
 Other extensively used resources include GeoPandas documentation for plotting and Contextily for its basemaps.
+
+License: 
+This project is licensed under the Apache license.
